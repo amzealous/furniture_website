@@ -1,0 +1,54 @@
+.navbar-brand{
+    font-family: "Lexend", sans-serif;
+    text-size-adjust: 20px;
+}
+.navbar-nav{
+    justify-content: space-around;
+}
+#foot{
+   font-family: "Lexend", sans-serif;
+font-size: x-large;
+}
+#carouselExampleInterval{
+    width: 80%;
+    align-items: center;
+}
+#top{
+    font-family: "Old Standard TT", serif;
+    text-align: center;
+    margin-top: 30px;
+}
+#def{
+    font-family: "Old Standard TT", serif;
+    margin-top: 10px;
+}
+#get{
+    font-family: "Old Standard TT", serif;
+    position: relative;
+    top: 200px;
+    left: 40px;
+    z-index: 999;
+    text-shadow: 0px 30px -30px 0px whitesmoke;
+    background-color: bisque;
+    width: 500px;
+}
+body {
+  background-color: #f5f7fa;
+}
+
+.blockquote-custom {
+  position: relative;
+  font-size: 1.1rem;
+}
+
+.blockquote-custom-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -40px;
+  left: 19px;
+}
